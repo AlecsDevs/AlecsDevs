@@ -1,5 +1,4 @@
 <h1 align="center">👋 Welcome — Aleccs Louis Murillon</h1>
- <img src="https://your-image-url.com/banner.png" alt="Banner" />
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="60" title="ReactJS"/>
   &nbsp;&nbsp;
